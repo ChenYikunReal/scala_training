@@ -8,5 +8,14 @@
 - [Scala之IDEA配置方法](https://blog.csdn.net/qq_35826412/article/details/82187881)
 - [IDEA官网Scala插件下载地址](https://plugins.jetbrains.com/plugin/1347-scala/versions/stable)
 
-## 说明`scala-intellij-bin-2019.2.40`文件夹
-这本来是`scala-intellij-bin-2019.2.40.zip`，即`IntelliJ IDEA`的Scala插件，但是这个压缩包大小>50MB，交不上去，所以干脆选择展开提交。0
+## 文件夹说明
+- images<br/>
+项目涉及到的图片集合
+- out<br/>
+存放Scala源码编译生成的文件[已设置被Git忽略]
+- `scala-intellij-bin-2019.2.40`<br/>
+这本来是`scala-intellij-bin-2019.2.40.zip`，即`IntelliJ IDEA`的Scala插件，但是这个压缩包大小>50MB，交不上去，所以干脆选择展开提交。
+- `scala-intellij-bin-2020.2.17`<br/>
+同上`scala-intellij-bin-2019.2.40`，我的`IDEA`从`2019.2`版本升级到`2020.2`版本，所以也重新从官网下载了插件(使用原来的会报错)。
+- src<br/>
+存放Scala源码
