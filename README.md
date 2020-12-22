@@ -1,6 +1,6 @@
 # Scala学习记录
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/scala_training/blob/master/images/scala.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/scala.jpg)
 
 ## 安装配置
 - [Scala安装教程](https://www.runoob.com/scala/scala-install.html)
@@ -117,13 +117,13 @@ Scala的逻辑运算符没有\&和\|
     - 当然我们也可以强制把一个方法转换给函数，这就用到了Scala中的部分应用函数
 
 ## Scala字符串函数
-![在这里插入图片描述](https://github.com/ChenYikunReal/scala_training/blob/master/images/scala-string-functions.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/scala-string-functions.png)
 
 ## Scala数组函数
-![在这里插入图片描述](https://github.com/ChenYikunReal/scala_training/blob/master/images/scala-array-functions.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/scala-array-functions.png)
 
 ## Scala迭代器函数
-![在这里插入图片描述](https://github.com/ChenYikunReal/scala_training/blob/master/images/scala-iterator-functions.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/scala-iterator-functions.png)
 
 ## Scala集合
 [Scala集合](https://www.runoob.com/scala/scala-collections.html)
@@ -144,10 +144,10 @@ Scala的逻辑运算符没有\&和\|
 ## Scala正则表达式
 
 正则表达式规则：<br/><br/>
-![在这里插入图片描述](https://github.com/ChenYikunReal/scala_training/blob/master/images/regex-rules.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/regex-rules.png)
 <br/>
 正则表达式实例：<br/><br/>
-![在这里插入图片描述](https://github.com/ChenYikunReal/scala_training/blob/master/images/regex-examples.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/regex-examples.png)
 
 ## Scala样例类声明的过程
 此过程自动进行了以下行为：
